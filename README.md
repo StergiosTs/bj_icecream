@@ -1,1 +1,1 @@
-# bj_icecream
+# bj_icecream The purpose of this analysis is to provide a deep understanding of the factors driving customer satisfaction and preferences. By examining star ratings, review sentiments, and product attributes, this report aims to uncover key trends and actionable insights that will inform strategic decisions and enhance our product offerings.
